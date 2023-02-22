@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #eee
+}
+
+.car {
+  padding: 10px;
+  border: none;
+  cursor: pointer
+}
+
+.car:hover {
+  background-color: #333
+}
+
+.car {
+  font-size: 14px
+}
